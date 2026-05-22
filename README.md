@@ -91,4 +91,4 @@ jupyter notebook
 ---
 
 ## 👩‍💻 Author
-**Neha Khatri** — [GitHub](https://github.com/Nehu2021) · [LinkedIn](https://www.linkedin.com/in/neha-khatri-1a5917335/)
+**Neha Khatri** — [GitHub](https://github.com/neha-khatry) · [LinkedIn](https://www.linkedin.com/in/neha-khatri-1a5917335/)
